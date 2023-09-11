@@ -1,4 +1,5 @@
 # SCENE-pathy
+Read the paper at https://link.springer.com/chapter/10.1007/978-3-031-43148-7_30
 ```BibTeX
 @InProceedings{10.1007/978-3-031-43148-7_30,
     author="Toaiari, Andrea
